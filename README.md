@@ -17,33 +17,27 @@ So this script is written in Windows PowerShell.  Simply right click on the .PS1
 
 The difference between *Normal* and *Aggressive*.
 
-##Normal Mode
+## Normal Mode
 If you believe you have the ![NetGlobe](https://user-images.githubusercontent.com/60324301/140623915-c96a3404-27ef-4b36-ae90-900422932f52.png) because of a bad Windows Update (totally possible), then try Normal mode.
 
-##Aggressive Mode
+## Aggressive Mode
 If you have the ![NetGlobe](https://user-images.githubusercontent.com/60324301/140623915-c96a3404-27ef-4b36-ae90-900422932f52.png) because of an aggressive piece of code (such as the Windows 10 Exorcist v1), then you will most likely need to run Aggressive mode.
 
-###Common Questions
+### Common Questions
 Q: Can I run Aggressive mode after trying Normal mode?
-
 A: Yes and it WILL work!
 
 Q: Will this make changes to my system?
-
 A: Yes however the changes that are made will actually be reverting your system back to a *stock* NCSI configuration.  Aggressive mode as well, will revert your system to a stock configuration, but it will advance further by altering additional system settings.
 
 Q: Will Aggressive mode undo Windows 10 Exorcist v1 and/or other Windows 10 cleanup scripts?
-
 A: To some degree, yes.  MS Telemetry and tracking will be re-enabled but I am creating a new script to help with that which does not affect NCSI.
 
 Q: Are you making money at this?
-
 A: No but I would appreciate any donations for all of my time and effort.
 
 Q: Do you have a website?
-
 A: You can check out my personal site http://www.megaphat.info
 
 Q: Can I contact you with any questions or for a custom script?
-
 A: Sure, just go to http://www.megaphat.info to reach out to me.
