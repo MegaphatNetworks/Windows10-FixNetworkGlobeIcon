@@ -37,7 +37,7 @@ Q: Are you making money at this?
 A: No but I would appreciate any donations for all of my time and effort.
 
 Q: Do you have a website?
-A: You can check out my personal site ![Megaphat](http://www.megaphat.info)
+A: You can check out my personal site http://www.megaphat.info
 
 Q: Can I contact you with any questions or for a custom script?
-A: Sure, just go to ![Megaphat](http://www.megaphat.info) to reach out to me.
+A: Sure, just go to http://www.megaphat.info to reach out to me.
