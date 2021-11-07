@@ -22,7 +22,9 @@ If you believe you have the ![NetGlobe](https://user-images.githubusercontent.co
 
 ## Aggressive Mode
 If you have the ![NetGlobe](https://user-images.githubusercontent.com/60324301/140623915-c96a3404-27ef-4b36-ae90-900422932f52.png) because of an aggressive piece of code (such as the [Windows 10 Exorcist v1](https://github.com/MegaphatNetworks/Windows-10-Exorcist)), then you will most likely need to run Aggressive mode.
-
+  
+---
+  
 ### Common Questions
 - Q: Can I run Aggressive mode after trying Normal mode?  
 - A: Yes and it WILL work!
