@@ -30,7 +30,7 @@ A: Yes and it WILL work!
 
 Q: Will this make changes to my system?
 ---
-A: Yes however the changes that are made will actually be reverting your system back to a *stock* NCSI configuration.  Aggressive mode as well, will revert your system to a stock configuration, but it will advance further by altering additional system settings.
+A: Yes however the changes that are made will actually be reverting your system back to a *stock* NCSI configuration.  Aggressive mode as well, will revert your system to a stock configuration, but it will advance further by altering additional system settings back to their stock settings.
 
 
 Q: Will Aggressive mode undo Windows 10 Exorcist v1 and/or other Windows 10 cleanup scripts?
