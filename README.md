@@ -39,7 +39,7 @@ A: To some degree, yes.  MS Telemetry and tracking will be re-enabled but I am c
 
 Q: Are you making money at this?
 ---
-A | No but I would appreciate any donations for all of my time and effort.
+A: No but I would appreciate any donations for all of my time and effort.
 
 Q: Do you have a website?
 ---
